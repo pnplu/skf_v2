@@ -7,13 +7,13 @@
   <body>
     <p>Click the button to return the number of characters in the string.</p>
 
-<script>
+<!-- <script>
 function myFunction() {
     // var str = "Hello World!sdfsdfsdnfisdifn";
     var n = str.length;
     document.getElementById("demo").innerHTML = n;
 }
-</script>
+</script> -->
 
 <textarea name="name" rows="8" cols="80" onKeyUp="document.getElementById('text2').value=this.value.length">
 </textarea>
